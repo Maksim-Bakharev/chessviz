@@ -11,5 +11,5 @@ int main ()
   printf ("P P P P P P P P\n");
   printf ("R N B Q K B N R\n");
 
-  getch ();
+  return 0;
 }
